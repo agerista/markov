@@ -37,9 +37,6 @@ def make_chains(input_text):
         else:
             chains[my_tuple].append(new_value)
 
-
-        
-    print chains
     return chains
 
 
